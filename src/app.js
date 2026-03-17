@@ -1,5 +1,5 @@
 const express = require('express');
-const musicaRoutes = require('./routes/musicaRoutes');
+const musicaRoutes = require('../src/routes/musicaRoutes');
 
 const app = express();
 
